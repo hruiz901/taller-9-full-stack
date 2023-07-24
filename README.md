@@ -1,4 +1,4 @@
-<h1>Taller 9 Nombre_del_estudiante</h1>
+<h1>Taller 9 Heiler_Antonio_Ruiz_Rivas</h1>
 
 <h2> Información</h2>
 
@@ -7,5 +7,7 @@
 
 <h2> Punto 1: Link figma</h2>
 
-<a href="" target="_blank">Link de Figma</a>
+<a href="https://www.figma.com/file/zffcJ2desH488Oqda1AGqz/Heiler-Antonio-Ruiz-Rivas--Figma-Excercise?type=design&node-id=103%3A250&mode=design&t=WoaGilUi9emKWL7i-1" target="_blank">Link de Figma</a>
 
+<h2> Punto 2: HTML</h2>
+<img src="./public/images/html.png" alt="html">
