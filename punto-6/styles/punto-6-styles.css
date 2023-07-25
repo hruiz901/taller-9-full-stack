@@ -1,0 +1,11 @@
+/* Estilo base para el enlace */
+.enlace {
+    color: blue;
+    text-decoration: none;
+}
+
+/* Estilo para el efecto hover */
+.enlace:hover {
+    color: red;
+    text-decoration: underline;
+}

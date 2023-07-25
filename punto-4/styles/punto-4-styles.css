@@ -1,0 +1,12 @@
+/* Estilo para el texto en azul */
+.azul {
+    color: blue;
+    font-family: system-ui, -apple-system;
+    text-align: center;
+}
+/* Estilo para el texto en rojo */
+.rojo {
+    color: red;
+    font-family: system-ui, -apple-system;
+    text-align: center;
+}

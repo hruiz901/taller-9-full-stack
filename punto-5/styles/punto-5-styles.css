@@ -1,0 +1,53 @@
+
+/* Estilo para parrafo */
+.parrafo {
+    text-align: left;
+    justify-content: right;
+}
+
+/* Estilo para palabras subrayadas */
+.subrayado {
+    text-decoration: underline;
+}
+
+/* Estilo para palabras en negrita */
+.negrita {
+    font-weight: bold;
+}
+
+/* Estilo para texto de tamaño grande*/
+.grande {
+    font-size: 30px;  
+}
+
+/* Estilo para texto de tamaño mediano */
+.mediano {
+    font-size: 18px;
+}
+
+/* Estilo para texto de tamaño pequeño */
+.pequeno {
+    font-size: 12px;
+}
+
+/* Estilo para palabras en color azul */
+.azul {
+    color: blue;
+}
+
+/* Estilo para palabras en color rojo */
+.rojo {
+    color: red;
+}
+
+/* Estilo para palabras en verde */
+.verde {
+    color: green;
+}
+
+#section-1{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 100px;
+    padding: 20px 80px;
+}
